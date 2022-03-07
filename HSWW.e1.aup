@@ -1,7 +1,14 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
 <project xmlns="http://audacity.sourceforge.net/xml/" projname="HSWW.e1_data" version="1.3.0" audacityversion="2.3.2" sel0="1606.0778231293" sel1="1606.0778231293" vpos="0" h="0.0000000000" zoom="0.6729125977" rate="32000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
-	<tags/>
+	<tags>
+		<tag name="ARTIST" value="WeWork India"/>
+		<tag name="TITLE" value="Her Stories - Anisha Singh"/>
+		<tag name="ALBUM" value="Her Stories"/>
+		<tag name="YEAR" value="2022"/>
+		<tag name="TRACKNUMBER" value="02"/>
+		<tag name="GENRE" value="Entrepreneurship"/>
+	</tags>
 	<wavetrack name="Anisha OG" channel="2" linked="0" mute="1" solo="0" height="150" minimized="1" isSelected="0" rate="32000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="8.89718750" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="3854760">
@@ -3359,7 +3366,7 @@
 					<simpleblockfile filename="e08089fd.au" len="133327" min="-0.973847" max="0.963036" rms="0.165743"/>
 				</waveblock>
 			</sequence>
-			<envelope numpoints="12">
+			<envelope numpoints="10">
 				<controlpoint t="0.000000000000" val="0.083312461320"/>
 				<controlpoint t="5.263185270682" val="1.000000000000"/>
 				<controlpoint t="8.388281566978" val="1.000000000000"/>
@@ -3370,8 +3377,6 @@
 				<controlpoint t="19.885704852672" val="0.090909063816"/>
 				<controlpoint t="21.669176139907" val="0.062937080860"/>
 				<controlpoint t="26.204116791620" val="0.000001764532"/>
-				<controlpoint t="42.169251700680" val="0.000001764532"/>
-				<controlpoint t="42.169251700680" val="0.172886856603"/>
 			</envelope>
 		</waveclip>
 		<waveclip offset="1593.02930610" colorindex="0">
